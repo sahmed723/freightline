@@ -15,3 +15,4 @@ This HTML template is shipped with the (Tailwind CLI tool)[https://tailwindcss.c
 
 You're ready to go! The most useful task for rapid development is `npm run dev`, which rebuild the CSS every time you make a change in the HML or JS files.
 # freightline
+# freightline
